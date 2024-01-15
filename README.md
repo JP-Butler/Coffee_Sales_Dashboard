@@ -7,7 +7,8 @@ This was a guided project designed and created by [Mo Chen](https://www.youtube.
 To build an interactive and dynamic dashboard in Excel to better visualize and analyze coffee sales across the United Kingdom, Ireland and the United States. 
 
 ## Dashboard Demonstration
-<video src="Coffee%20Dashboard%20Demo.mp4" controls title="Title"></video>
+https://github.com/JP-Butler/Coffee_Sales_Dashboard/assets/129707393/7f9743ce-8e9a-4f9c-a51f-ed0c72b792ba
+
 
 
 ## Technology
